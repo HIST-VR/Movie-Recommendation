@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie Recommendation System
 A portfolio project with different approaches to a movie recommendation system based on IMDB.
 
 Using such datasets: 
