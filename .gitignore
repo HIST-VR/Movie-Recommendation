@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large datasets
+ml-latest/
+the-movies-dataset/
